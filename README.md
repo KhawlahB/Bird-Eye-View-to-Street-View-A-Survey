@@ -25,3 +25,7 @@ If you find this repository helpful, please cite our survey.
 
 
 # 1. Conditional GAN-based Models.
+
+1. Cross-view image synthesis using conditional gans, _Regmi et. al_, **2018** , [[Open Access](https://openaccess.thecvf.com/content_cvpr_2018/html/Regmi_Cross-View_Image_Synthesis_CVPR_2018_paper.html)].
+
+2. 
