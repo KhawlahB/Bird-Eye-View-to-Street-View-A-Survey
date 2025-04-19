@@ -12,4 +12,13 @@ This repository contains the supplementary materials for our survey paper titles
 - MLP-based Models.
 - Recent Advancements. 
 
+**Citing this work**
 
+If you find this repository helpful, please cite our survey.
+
+<pre> ```@article{bajbaa2024bird,
+  title={Bird's-Eye View to Street-View: A Survey},
+  author={Bajbaa, Khawlah and Usman, Muhammad and Anwar, Saeed and Radwan, Ibrahim and Bais, Abdul},
+  journal={arXiv preprint arXiv:2405.08961},
+  year={2024}
+} ``` </pre>
