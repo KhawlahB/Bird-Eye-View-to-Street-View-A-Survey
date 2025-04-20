@@ -3,14 +3,14 @@
 This repository contains the supplementary materials for our survey paper titles _<a href="https://arxiv.org/abs/2405.08961" target="_blank">Bird-Eye View to Street-View : A Survey</a>_. In this paper, we review various methods in bird-eye view to street-view synthesis domain, we categorized each method based on applied techniques, and summarizing the keys advancement in the field. 
 
 **Table of Contents:**
-- [Conditional GAN-based Models.](#-1.-conditional-gAN-based-models.)
-- Multi Generator and Discriminator Models.
-- Image-to-Image Translation Frameworks.
-- Representation-based Models.
-- Geometric Correspondence Models.
-- Siamese Network-based Models.
-- MLP-based Models.
-- Recent Advancements. 
+- [Conditional GAN-based Models](#1-conditional-gan-based-models).
+- [Multi Generator and Discriminator Models](#2-multi-generator-and-discriminator-models)
+- [Image-to-Image Translation Frameworks](#3-image-to-image-translation-frameworks)
+- [Representation-based Models](#4-representation-based-models)
+- [Geometric Correspondence Models](#5-geometric-correspondence-models)
+- [Siamese Network-based Models](#6-siamese-network-based-models)
+- [MLP-based Models](#7-mlp-based-models)
+- [Recent Advancements](#8-recent-advancements) 
 
 **Citing this work**
 
@@ -24,7 +24,7 @@ If you find this repository helpful, please cite our survey.
 } </pre>
 
 
-# 1. Conditional GAN-based Models.
+# 1. Conditional GAN-based Models
 
 1. Cross-view image synthesis using conditional gans, _Regmi et al._, **2018**, CVPR, [[Open Access](https://openaccess.thecvf.com/content_cvpr_2018/html/Regmi_Cross-View_Image_Synthesis_CVPR_2018_paper.html)].
 
@@ -42,7 +42,7 @@ for urban areas, _Lu et al._, **2020**, CVPR, [[Open Access](https://openaccess.
 
 4. Cross-view panorama image synthesis, _Wu et al._, **2022**, IEEE Transactions on Multimedia, [[Open Access](https://ieeexplore.ieee.org/abstract/document/9743312)]. 
 
-# 2. Multi Generator and Discriminator Models.
+# 2. Multi Generator and Discriminator Models
 
 1. Generative Adversarial Frontal View to Bird View Synthesis, _Zhu et al._, **2018**, 2018 International Conference on 3D Vision (3DV), [[Open Access](https://ieeexplore.ieee.org/abstract/document/8490997)]. 
 
@@ -54,12 +54,12 @@ for urban areas, _Lu et al._, **2020**, CVPR, [[Open Access](https://openaccess.
 attention gans, _Wu et al._, **2022**, Pattern Recognition, [[Pattern Recognition (Elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S003132032200365X?via%3Dihub)]. 
 
 
-# 3. Image-to-Image Translation Frameworks.
+# 3. Image-to-Image Translation Frameworks
 
 1. Image-To-Image Translation With Conditional Adversarial Networks, _Isola et al._, **2017**, CVPR, [[Open Access](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)]. 
 
 
-# 4. Representation-based Models.
+# 4. Representation-based Models
 
 1. Wide-Area Image Geolocalization With Aerial Reference Imagery, _Workman et al._, **2015**, ICCV, [[Open Access](https://openaccess.thecvf.com/content_iccv_2015/html/Workman_Wide-Area_Image_Geolocalization_ICCV_2015_paper.html)]. 
 
@@ -85,15 +85,15 @@ ing, _Shi et al._, **2020**, CVPR, [[Open Access](https://openaccess.thecvf.com/
 synthesis from satellite imagery, _Shi et al._, **2022**, IEEE Transactions on Pattern Analysis and Machine Intelligence, [[TPAMI](https://ieeexplore.ieee.org/abstract/document/9674229)]. 
 
 
-# 6. Siamese Network-based Models.
+# 6. Siamese Network-based Models
 
 1. Learning Deep Representations for Ground-to-Aerial Geolocalization, _Lin et al._, **2015**, CVPR, [[Open Access](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Lin_Learning_Deep_Representations_2015_CVPR_paper.html)].
 
-# 7. MLP-based Models.
+# 7. MLP-based Models
 
 1. Cascaded Cross MLP-Mixer GANs for Cross-View Image Translation, _Ren et al._, **2021**, [[arXiv](https://arxiv.org/abs/2110.10183)]. 
 
-# 8. Recent Advancements. 
+# 8. Recent Advancements
 1. Street-View Image Generation From a Bird's-Eye View Layout, _Swerdlow et al._, **2024**, [[LRA](https://ieeexplore.ieee.org/abstract/document/10443014)].
 
 2. Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion, _Li et al._, **2024**, CVPR, [[Open Access](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Sat2Scene_3D_Urban_Scene_Generation_from_Satellite_Images_with_Diffusion_CVPR_2024_paper.html)].
